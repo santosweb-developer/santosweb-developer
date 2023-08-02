@@ -1,12 +1,11 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, o meu nome é José 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina. Neste espaço, você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto.
+Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Neste espaço, você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto.
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo mais sobre [insira aqui o que você está aprendendo].
-- 💼 Trabalho como [sua ocupação/profissão].
-- 🎓 Sou formado em [sua área de formação/estudo].
+- 💼 Trabalho como Freelancer.
+- 🎓 Sou formado em Licenciatura em Engenharia Informática.
 - ⚡️ Curiosidade: [alguma curiosidade interessante sobre você].
 
 ## Principais habilidades
@@ -34,11 +33,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da tecnologia apaixonado po
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=santosweb-developer&show_icons=true&count_private=true)
 
 ## Visão geral dos repositórios
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuario&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosweb-developer&layout=compact)
 
 ## Agradecimentos
 
